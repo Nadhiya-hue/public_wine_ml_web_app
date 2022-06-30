@@ -1,0 +1,4 @@
+pickle5=0.012
+streamlit==1.2.0
+streamit-option-menu==0.3.2
+scikit-learn==1.0.1
